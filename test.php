@@ -1,3 +1,3 @@
 <?php
-	echo "test git multiple account";
+	echo "test git multiple account.";
 ?>
